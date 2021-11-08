@@ -4,4 +4,4 @@ This repo holds various personal projects that showcase my analytical work. As a
 ### NOTE: 
 GitHub seems to have problems rendering LaTeX in Jupyter notebooks. I **STRONGLY RECOMMEND** you use https://nbviewer.org to view Jupyter notebooks by copying and pasting the link to the notebook.
 
-Also, Github has trouble displaying some PDFs, so you may need to download them.
+Also, Github has trouble displaying some PDFs and images therein, so you should download them rather than view them in the browser.
